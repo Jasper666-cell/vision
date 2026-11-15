@@ -1,0 +1,20 @@
+{
+  "seed": 42,
+  "selected_noise_ratio": 0.05,
+  "selected_pixels": 15360,
+  "pepper_pixels": 7680,
+  "salt_pixels": 7680,
+  "changed_pixels": 15360,
+  "kernels": [
+    3,
+    9
+  ],
+  "zoom_xyxy": [
+    213,
+    160,
+    293,
+    240
+  ],
+  "zoom_scale": 4,
+  "layout": "左上：原灰度；右上：含噪；左下：3x3；右下：9x9"
+}
