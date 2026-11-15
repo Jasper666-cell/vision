@@ -1,0 +1,56 @@
+{
+  "pattern_columns_rows": [
+    9,
+    6
+  ],
+  "image_size_width_height": [
+    640,
+    480
+  ],
+  "success_count": 13,
+  "total_count": 13,
+  "successful_files": [
+    "left01.jpg",
+    "left02.jpg",
+    "left03.jpg",
+    "left04.jpg",
+    "left05.jpg",
+    "left06.jpg",
+    "left07.jpg",
+    "left08.jpg",
+    "left09.jpg",
+    "left11.jpg",
+    "left12.jpg",
+    "left13.jpg",
+    "left14.jpg"
+  ],
+  "failed_files": [],
+  "camera_matrix": [
+    [
+      536.0734531358816,
+      0.0,
+      342.3704682724539
+    ],
+    [
+      0.0,
+      536.0163627416654,
+      235.53687064064323
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dist_coeffs": [
+    -0.26509039454737565,
+    -0.04674220144447337,
+    0.0018330155215033636,
+    -0.00031469160835466366,
+    0.2523122103950584
+  ],
+  "rms_pixels": 0.4086947658872131,
+  "undistorted_source": "left01.jpg",
+  "object_point_spacing": 1,
+  "object_point_unit": "棋盘单位"
+}
